@@ -206,7 +206,7 @@ function find_longest_word(str)
     result = array1[x];
     } 
   }
-  return result;
+  return result
 }
 console.log(find_longest_word('Web Development Tutorial'));
 
